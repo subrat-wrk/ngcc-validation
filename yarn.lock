@@ -2077,17 +2077,17 @@
   resolved "https://registry.yarnpkg.com/@bugsnag/plugin-angular/-/plugin-angular-6.4.3.tgz#6648d6829c3164d0fa721f31927c45b42da13200"
   integrity sha512-uan1vVQ5AepTes2OlFB8okhPez1i1/7j6lRHXiHAVk+FHMVwOt2D+tCNrgUGXRIbTNQZ5cdUL/hYY4axUjRS5A==
 
-"@carbon/icon-helpers@10.4.0":
-  version "10.4.0"
-  resolved "https://registry.yarnpkg.com/@carbon/icon-helpers/-/icon-helpers-10.4.0.tgz#771ba51efcaa9d2be03800f8e0f50c7aa779febf"
-  integrity sha512-52H97nT0Hv3mneNaDXBELt/shrO9AUZIpX5TuxRUcdva0xqLNnjhsLw0PTytjQRw3yNCLmDw8hOutzlReXCleQ==
+"@carbon/icon-helpers@10.6.0":
+  version "10.6.0"
+  resolved "https://registry.yarnpkg.com/@carbon/icon-helpers/-/icon-helpers-10.6.0.tgz#72a5bbd1edbee3728e47fa6d17c2aca67dbb101c"
+  integrity sha512-4Nh6l+B8SRNyw1RpgNT4Z83Aa5UwRFmKJ2mx5m7mE5TqxPkfIZjyyLHyv5gl3gPtaVwq78ZGz80wG0NRQzRM7g==
 
-"@carbon/icons-angular@^10.4.0":
-  version "10.7.0"
-  resolved "https://registry.yarnpkg.com/@carbon/icons-angular/-/icons-angular-10.7.0.tgz#94e54fe1708328808ec439c7d5fbf22170a7f003"
-  integrity sha512-o9PvT+8QTsQiP0Q8pOYubZZToA6eKT3wSKCuDkLYOFmtHPDc0CAjQCH3XaXzgbuDXpNqDx5ML8ldZO3ZLZaIqQ==
+"@carbon/icons-angular@^11.0.0":
+  version "11.0.1"
+  resolved "https://registry.yarnpkg.com/@carbon/icons-angular/-/icons-angular-11.0.1.tgz#345b53f9fa906ea2c58d0d5f3e8cdb6e2d05d532"
+  integrity sha512-FJ5pCorN1y0wvkyU/Xb1GKQuNSafzdq9CFHEP+oVTeycxPG7f3sNYAvd0CD97uuF3ATj9fdgP6q45PWkaSFu/Q==
   dependencies:
-    "@carbon/icon-helpers" "10.4.0"
+    "@carbon/icon-helpers" "10.6.0"
 
 "@clr/angular@^3.0.0":
   version "3.0.1"
